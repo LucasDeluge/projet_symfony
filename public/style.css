@@ -1,3 +1,33 @@
-main {
+body {
+  background-image: url('./image/planete.jpeg');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+}
+
+form {
+  margin-left: 20px;
   color:red
+}
+
+#alert {
+  position: fixed;
+  top: 50px;
+  left: 0;
+  right: 0;
+}
+
+.intro {
+  margin-top: 125px;
+  color:black;
+  text-align: center;
+  text-decoration: underline;
+  font-size: 30px;
 }
