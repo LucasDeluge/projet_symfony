@@ -16,6 +16,11 @@ form {
   color:red
 }
 
+#formLogin{
+  display: block;
+  margin-top: 10em;
+}
+
 #alert {
   position: fixed;
   top: 50px;
